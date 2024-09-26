@@ -1,13 +1,60 @@
-# Scrimba Course on Javascript - Build a passenager counter app
+# Passenger Counter
 
-How to Run Project on Server?
+This project is a simple Passenger Counter application built with JavaScript, designed as part of the Scrimba JavaScript course. The application allows users to keep track of the number of passengers in a vehicle, providing a user-friendly interface to add or remove passengers.
 
-If you are using Visual Studio then run this project using the live server extension:
+## Features
 
-Step:
+- Increment and decrement the passenger count
+- Visual feedback on the current passenger count
+- Simple and intuitive user interface
 
-1. Navigate to Extensions.
-2. Search for "Live Server" and install it.
-3. Click on Go Live option to run project.
+## Technologies Used
 
-Happy Coding!
+- HTML
+- CSS
+- JavaScript
+
+## Getting Started
+
+### Prerequisites
+
+- A web browser (Chrome, Firefox, etc.)
+
+### Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/BhoomiGohil/Scrimba-JavaScriptCoursePassengerCounter.git
+```
+
+2. **Navigate to the project directory:**
+
+```bash
+cd Scrimba-JavaScriptCoursePassengerCounter
+```
+
+3. **Open the `index.html` file in your web browser.**
+
+```bash
+open index.html
+```
+
+OR
+
+3. **Open the project using Live Server:**
+
+If you're using Visual Studio Code, install the Live Server extension.
+Click on the "Go Live" option to run the project.
+
+**Note:** This project requires a Firebase Database to store and retrieve data. Please set up a Firebase project and update the `databaseURL` in the JavaScript code accordingly.
+
+## Usage
+
+1. Use the Add Passenger button to increase the count.
+2. Use the Remove Passenger button to decrease the count.
+3. The count will not go below zero.
+
+## Acknowledgements
+
+Inspired by the Scrimba JavaScript course.
