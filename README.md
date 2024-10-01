@@ -25,13 +25,13 @@ This project is a simple Passenger Counter application built with JavaScript, de
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/BhoomiGohil/Scrimba-JavaScriptCoursePassengerCounter.git
+git clone https://github.com/BhoomiGohil/Scrimba-Counter2.git
 ```
 
 2. **Navigate to the project directory:**
 
 ```bash
-cd Scrimba-JavaScriptCoursePassengerCounter
+cd Scrimba-Counter2
 ```
 
 3. **Open the `index.html` file in your web browser.**
