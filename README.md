@@ -14,6 +14,10 @@ This project is a simple Passenger Counter application built with JavaScript, de
 - CSS
 - JavaScript
 
+## Visual Design
+
+![Index] (Index.png)
+
 ## Getting Started
 
 ### Prerequisites
